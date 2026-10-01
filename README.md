@@ -61,9 +61,6 @@ Video recording of the best-performing easy-environment agent.
 
 Video recording of the best-performing hardcore-environment agent.
 
-### `feedback_hqcb32.pdf`
-
-Coursework feedback file.
 
 ## Method Summary
 
